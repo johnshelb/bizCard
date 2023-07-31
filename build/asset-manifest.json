@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdc69b8d.css",
+    "main.js": "/static/js/main.f4bb50f9.js",
+    "static/media/atGertrudesNose.jpg": "/static/media/atGertrudesNose.5efa92b679aece348d1f.jpg",
+    "index.html": "/index.html",
+    "main.bdc69b8d.css.map": "/static/css/main.bdc69b8d.css.map",
+    "main.f4bb50f9.js.map": "/static/js/main.f4bb50f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc69b8d.css",
+    "static/js/main.f4bb50f9.js"
+  ]
+}
